@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Brobot Voice Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Brobot Voice Generator</h1>
+  <button onclick="generateVoice()">🌀 Channel My Persona</button>
+  <pre id="output">Tap the button to begin your incarnation.</pre>
+  <script src="script.js"></script>
+</body>
+</html>
