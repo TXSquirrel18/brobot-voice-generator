@@ -1,0 +1,27 @@
+body {
+  font-family: monospace;
+  background: #111;
+  color: #0ff;
+  padding: 2em;
+  text-align: center;
+}
+
+button {
+  padding: 1em;
+  background: #0ff;
+  color: #000;
+  font-size: 1.2em;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 1em;
+}
+
+pre {
+  margin-top: 2em;
+  font-size: 1.1em;
+  white-space: pre-wrap;
+  background: #222;
+  padding: 1em;
+  border-radius: 8px;
+}
